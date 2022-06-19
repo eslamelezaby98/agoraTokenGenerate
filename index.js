@@ -74,3 +74,6 @@ app.listen(PORT, () => {
 
 //* endpoint => get
 // http://localhost:8080/rtc/test/publisher/uid/1
+
+//* source:
+//  https://www.agora.io/en/blog/how-to-build-a-token-server-for-agora-applications-using-nodejs/
